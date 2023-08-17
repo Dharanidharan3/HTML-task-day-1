@@ -1,0 +1,102 @@
+//->Fix the bugs in below snippet
+
+<html lang="en">
+   <head>
+        <title>Document</title>
+    </head>
+    <body>
+    guvi
+    <div> Lorem ipsum dolor sit amet consectetur adipisicing elit. </div>
+    <div> Guvi Geek Network </div>
+    </body>
+    </html>
+
+//->number 2
+
+<html lang="en">
+    <head>
+        <title>Document</title>
+    </head>
+    <body>
+    guvi
+    <div> Lorem ipsum dolor sit amet consectetur adipisicing elit. </div>
+    <div> Guvi Geek Network </div>
+    </body>
+    </html>
+
+//->Use certain HTML elements to display the following in a HTML page.
+
+
+<html lang="en">
+    <head>
+        <title>Document</title>
+    </head>
+    <body>
+        <ul>
+            <li>Programming Language</li>
+        <ul>
+            <li>JavaScript</li>
+        </ul>
+         <ol type="a">
+               <li>Angular</li>
+
+               <li>React</li>
+
+               <li>Vue.js</li>
+        </ol>
+        <ul>
+            <li>Python</li>
+        <ol type="a">
+               <li>Django Framework</li>
+
+               <li>Flask Framework</li>
+        </ol>
+            <li>Java</li>
+        <ol type="a">
+              <li>Spring</li>
+
+              <li>Maven</li>
+
+              <li>Hibernate</li>
+        </ol>
+        <ul> 
+            <li>Database</li>
+        
+        <ul>
+             <li>MySQL</li>
+             <li>MongoDB</li>
+             <li>Cansandra</li>
+        </ul>
+    </body>
+    </html>
+   
+4.Use the table tag to design given image Click here.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <h1>Health Chart</h1>
+        <table border="1">
+            <tr>
+                <td>state of health</td> <td>fasting value</td> <td>after eating</td>
+            </tr>
+            <tr>
+                <td>Healthy</td> <td>70</td> <td>100</td> <td>Less than 140</td>
+            </tr>
+            <tr>
+                <td>Pre-diabetes</td> <td>101</td> <td>126</td> <td>140 to 200</td>
+            </tr>
+            <tr>
+                <td>Diabetes</td> <td>More than 126</td> <td>N/A</td> <td>More than 200</td>
+            </tr>
+        </table>
+    </center>
+    
+</body>
+</html>
